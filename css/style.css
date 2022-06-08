@@ -88,4 +88,9 @@
     
     .box-2-in-2 {
         background-color: hsl(179, 56%, 56%);
+        padding: 1.5rem;
+    }
+    
+    .box-2-in-2 p {
+        line-height: 1.5;
     }
