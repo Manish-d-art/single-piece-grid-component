@@ -81,6 +81,11 @@
     
     .box-2-in-1 p {
         margin-top: 1rem;
+        color: hsl(204, 43%, 93%);
+    }
+    
+    .box-2-in-1 h2 {
+        color: hsl(204, 43%, 93%);
     }
     
     .box2-p {
@@ -93,6 +98,7 @@
     span {
         font-size: 2rem;
         margin-right: 0.4rem;
+        color: white;
     }
     
     .a-para {
@@ -106,6 +112,7 @@
         padding: 0.8rem 7.7rem;
         background-color: hsl(71, 73%, 54%);
         border-radius: 5px;
+        color: hsl(204, 43%, 93%);
     }
     
     .box-2-in-2 {
@@ -113,6 +120,11 @@
         padding: 1.5rem;
     }
     
+    .box-2-in-2 h2 {
+        color: hsl(204, 43%, 93%);
+    }
+    
     .box-2-in-2 p {
         line-height: 1.5;
+        color: hsl(204, 43%, 93%);
     }
