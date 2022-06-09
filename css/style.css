@@ -36,12 +36,11 @@ main {
         width: 700px;
     }
     .box-2-in-1 {
-        /* padding: 2.5rem !important; */
+        padding: 2.5rem !important;
         width: 350px;
     }
     .box-2-in-2 {
-        /* padding: 2.5rem !important;
-        padding-right: 3rem !important; */
+        padding: 2.5rem !important;
         width: 350px;
     }
 }
@@ -117,18 +116,19 @@ span {
     font-weight: 700;
 }
 .a-para {
-    margin: 2.5rem 0 .8rem 0 !important;
+    margin: 2.5rem 0 1.3rem 0 !important;
     text-align: center;
     font-weight: 400;
 }
 .a-para a {
     text-align: center;
     text-decoration: none;
-    padding: 0.8rem 7rem;
+    padding: 0.8rem 6.66rem;
     background-color: hsl(71, 73%, 54%);
     border-radius: 5px;
     color: hsl(204, 43%, 93%);
     font-weight: 400;
+    cursor: pointer;
 }
 .box-2-in-2 {
     background-color: hsl(179, 56%, 56%);
