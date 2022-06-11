@@ -60,7 +60,7 @@ main {
     }
 }
 
-@media (max-width:320px) {
+@media (max-width:360px) {
     .card {
         width: 260px;
     }
@@ -69,6 +69,9 @@ main {
     }
     .box-2-in-2 {
         width: 260px;
+    }
+    .a-para a {
+        padding: 0.8rem 4.5rem;
     }
 }
 
