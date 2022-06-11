@@ -56,7 +56,8 @@ main {
         border-bottom-right-radius: 5px;
     }
     .a-para a {
-        padding: 0.8rem 7.6rem !important;
+        padding: 0.8rem 7.6rem;
+        margin-left: -1.5rem;
     }
 }
 
@@ -71,7 +72,8 @@ main {
         width: 260px;
     }
     .a-para a {
-        padding: 0.8rem 4.5rem;
+        padding: 0.8rem 4.5rem !important;
+        margin-left: 0;
     }
 }
 
