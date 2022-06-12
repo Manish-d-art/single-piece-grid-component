@@ -26,6 +26,9 @@ main {
 
 @media (min-width:820px) {
     .card {
+        margin-top: 5rem;
+    }
+    .card {
         justify-content: center;
         width: 700px !important;
     }
