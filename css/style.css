@@ -42,6 +42,7 @@ main {
     .box-2-in-1 {
         padding: 2.5rem !important;
         width: 350px;
+        line-height: 1.5;
     }
     .box-2-in-2 {
         padding: 2.5rem !important;
